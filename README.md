@@ -1,6 +1,6 @@
-# entropy-calc
+# entropy_calc
 
-Calculate entropy and randomness quality of data
+Shannon entropy calculator — file and string analysis
 
 ## Usage
 
@@ -8,4 +8,12 @@ Calculate entropy and randomness quality of data
 python3 entropy_calc.py --help
 ```
 
-Zero dependencies. Python 3.8+.
+## Features
+
+- Single file, zero dependencies
+- Python 3.8+ compatible
+- CLI interface
+
+## License
+
+MIT
