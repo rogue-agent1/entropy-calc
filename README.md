@@ -1,14 +1,11 @@
-# entropy-calc
+# entropy_calc
 
-Shannon entropy calculator
+entropy_calc - Shannon entropy, mutual information, and KL divergence.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 entropy_calc.py --help
+python3 entropy_calc.py
 ```
-
-## Features
-
-- Zero dependencies (Python 3.8+)
-- Single file implementation
